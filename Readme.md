@@ -17,7 +17,7 @@ It is the code of the paper _''High Dimensional Bayesian Optimization using Drop
 
 ### How To Use it 
 
-Step 1: add more files to the current path
+Step 1: add all files to the matlab path
 
 Step 2: run the file MainDemo.m
 
